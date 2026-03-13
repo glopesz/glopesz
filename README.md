@@ -7,7 +7,7 @@ São Paulo – SP
 
 ## Sobre mim
 
-Sou graduando em Ciência da Computação e tenho verdadeira paixão por tecnologia, resolução de problemas e aprendizado contínuo. Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde possa aplicar meus conhecimentos, crescer junto com um time e contribuir de forma significativa.
+Sou graduando em Ciência da Computação e tenho verdadeira paixão por tecnologia, resolução de problemas e aprendizado contínuo. 
 Tenho como objetivo a médio prazo me tornar um desenvolvedor, com visão de liderança e impacto real nos projetos em que atuar. Mais do que um cargo, busco fazer parte de algo que me desafie, me ensine e onde eu possa deixar minha marca.
 
 ---
