@@ -7,6 +7,8 @@ São Paulo – SP
 
 ## Sobre mim
 
+Atualmente trabalho na Volkswagen Group Services como jovem aprendiz na equipe de Engenharia & Tecnologia, onde tenho contato direto com programação.
+
 Sou graduando em Ciência da Computação e tenho verdadeira paixão por tecnologia, resolução de problemas e aprendizado contínuo. 
 Tenho como objetivo a médio prazo me tornar um desenvolvedor, com visão de liderança e impacto real nos projetos em que atuar. Mais do que um cargo, busco fazer parte de algo que me desafie, me ensine e onde eu possa deixar minha marca.
 
@@ -37,7 +39,7 @@ Tenho como objetivo a médio prazo me tornar um desenvolvedor, com visão de lid
 
 ## Objetivo atual
 
-Conquistar meu estágio em tecnologia, em um time que valorize gente com vontade de crescer, aprender e entregar resultado. Tô pronto pra somar e mostrar serviço!
+Conquistar um estágio em tecnologia, em um time que valorize gente com vontade de crescer, aprender e entregar resultado. Tô pronto pra somar e mostrar serviço!
 
 ---
 
