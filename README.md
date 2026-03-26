@@ -31,8 +31,8 @@ Tenho como objetivo a médio prazo me tornar um desenvolvedor, com visão de lid
 ## Meu GitHub Stats
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=glopesz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopesz&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=glopesz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopesz&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
 ---
