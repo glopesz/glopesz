@@ -1,50 +1,38 @@
 # Gabriel Lopes
 
-Bacharelando em Ciência da Computação - 3/8 <br>
-São Paulo – SP
+# 💫 About Me:
+Atualmente trabalho na Volkswagen Group Services como jovem aprendiz na equipe de Engenharia & Tecnologia, onde tenho contato direto com programação.<br><br>Sou graduando em Ciência da Computação e tenho verdadeira paixão por tecnologia, resolução de problemas e aprendizado contínuo. Tenho como objetivo a médio prazo me tornar um desenvolvedor, com visão de liderança e impacto real nos projetos em que atuar. Mais do que um cargo, busco fazer parte de algo que me desafie, me ensine e onde eu possa deixar minha marca.
 
----
 
-## Sobre mim
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/gabriel-lopes-cordeiro-8651b1202) 
 
-Atualmente trabalho na Volkswagen Group Services como jovem aprendiz na equipe de Engenharia & Tecnologia, onde tenho contato direto com programação.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=glopesz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=glopesz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glopesz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Sou graduando em Ciência da Computação e tenho verdadeira paixão por tecnologia, resolução de problemas e aprendizado contínuo. 
-Tenho como objetivo a médio prazo me tornar um desenvolvedor, com visão de liderança e impacto real nos projetos em que atuar. Mais do que um cargo, busco fazer parte de algo que me desafie, me ensine e onde eu possa deixar minha marca.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=glopesz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Tecnologias que estou aprendendo
+# 💫 About Me:
+Atualmente trabalho na Volkswagen Group Services como jovem aprendiz na equipe de Engenharia & Tecnologia, onde tenho contato direto com programação.<br><br>Sou graduando em Ciência da Computação e tenho verdadeira paixão por tecnologia, resolução de problemas e aprendizado contínuo. Tenho como objetivo a médio prazo me tornar um desenvolvedor, com visão de liderança e impacto real nos projetos em que atuar. Mais do que um cargo, busco fazer parte de algo que me desafie, me ensine e onde eu possa deixar minha marca.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
 
-## Meu GitHub Stats
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/gabriel-lopes-cordeiro-8651b1202) 
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=glopesz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopesz&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=glopesz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=glopesz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glopesz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-## Objetivo atual
-
-Conquistar um estágio em tecnologia, em um time que valorize gente com vontade de crescer, aprender e entregar resultado. Tô pronto pra somar e mostrar serviço!
-
----
-
-## Vamos conversar?
-
-<a href="https://www.linkedin.com/in/gabriel-lopes-cordeiro-8651b1202" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />
-</a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=glopesz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
