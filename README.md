@@ -33,11 +33,3 @@ Sou estudante de Ciência da Computação e tenho interesse forte em desenvolvim
 </div>
 
 ---
-
-## 🎯 Foco atual
-- Desenvolvimento backend (Java)
-- Estrutura de dados e algoritmos
-- Arquitetura de software
-- Evolução para full-stack
-
----
