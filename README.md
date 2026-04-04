@@ -1,35 +1,32 @@
-# Gabriel Lopes
+# Hello 👋, I'm Gabriel Lopes Cordeiro
+### Software Developer
 
-## 👨‍💻 Sobre mim
+## Português
 Atuo na Volkswagen Group Services na área de Engenharia & Tecnologia, com foco em desenvolvimento e contato direto com programação.
 
 Sou estudante de Ciência da Computação e tenho interesse forte em desenvolvimento de software. Busco evoluir constantemente como desenvolvedor, com o objetivo de gerar impacto real nos projetos e crescer para posições de maior responsabilidade técnica.
 
----
+## English
+I work at Volkswagen Group Services in the Engineering & Technology area, focusing on development and direct contact with programming.
 
-## 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-lopes-cordeiro-8651b1202)
+I am a Computer Science student and have a strong interest in software development. I constantly seek to evolve as a developer, aiming to generate real impact on projects and grow into positions of greater technical responsibility.
 
----
+## Contact Me
+<p><a href="https://www.linkedin.com/in/gabriel-lopes-cordeiro-8651b1202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-## 🧠 Stack & Ferramentas
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+## Skills
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+</p>
 
-</div>
+## GitHub Stats
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=glopesz&theme=dark" alt="GitHub Streak" />
 
-## 📊 Estatísticas
-<div align="center">
 
-[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/glopesz?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
-</div>
-
----
