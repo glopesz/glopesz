@@ -11,15 +11,8 @@ I work at Volkswagen Group Services in the Engineering & Technology area, focusi
 
 I am a Computer Science student and have a strong interest in software development. I constantly seek to evolve as a developer, aiming to generate real impact on projects and grow into positions of greater technical responsibility.
 
-## GitHub Stats
+## Languages && Tools
 
-<div align="center">
-  <a href="https://github.com/glopesz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glopesz&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopesz&layout=compact&langs_count=7&theme=noctis_minimus"/>
-</div>
-
-    
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
