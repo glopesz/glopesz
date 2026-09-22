@@ -4,7 +4,7 @@
 
 ## Português
 
-Atuo como estagiário de **Automação e Processos na Volkswagen Group Services**, na área de **BTO**, com contato direto com **desenvolvimento de software, automação e melhoria de processos**.
+Atuo como estagiário de **Automação e Processos na Volkswagen Group Services**, na área de **BTO** (Business Transformation Office), com contato direto com **desenvolvimento de software, automação e melhoria de processos**.
 
 Sou estudante de **Ciência da Computação** e tenho forte interesse em **desenvolvimento de software, backend, automação e arquitetura de sistemas**. Busco aplicar meus conhecimentos de programação em problemas reais, desenvolvendo soluções que contribuam para a eficiência e evolução dos processos.
 
@@ -12,7 +12,7 @@ Tenho como objetivo evoluir continuamente como desenvolvedor, aprofundando meus 
 
 ## English
 
-I work as an **Automation & Process Engineering Intern at Volkswagen Group Services**, within the **BTO** area, with direct exposure to **software development, automation, and process improvement**.
+I work as an **Automation & Process Engineering Intern at Volkswagen Group Services**, within the **BTO** (Business Transformation Office) area, with direct exposure to **software development, automation, and process improvement**.
 
 I am a **Computer Science student** with a strong interest in **software development, backend engineering, automation, and software architecture**. I aim to apply my programming knowledge to real-world problems by developing solutions that contribute to process efficiency and continuous improvement.
 
