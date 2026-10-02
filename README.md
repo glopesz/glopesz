@@ -31,6 +31,12 @@ Tenho como objetivo evoluir continuamente como desenvolvedor, aprofundando meus 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 </div>
 
+## Stats
+
+![glopesz's Stats](https://github-readme-stats.vercel.app/api?username=glopesz&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![glopesz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=glopesz&theme=dark&hide_border=false)
+![glopesz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glopesz&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 ## Contact Me
 
 <p>
