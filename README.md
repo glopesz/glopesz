@@ -2,8 +2,6 @@
 
 ### Software Developer | Automation & Process Engineering
 
-## English
-
 I work as an **Automation & Process Engineering Intern at Volkswagen Group Services**, within the **BTO** (Business Transformation Office) area, with direct exposure to **software development, automation, and process improvement**.
 
 I am a **Computer Science student** with a strong interest in **software development, backend engineering, automation, and software architecture**. I aim to apply my programming knowledge to real-world problems by developing solutions that contribute to process efficiency and continuous improvement.
@@ -24,8 +22,6 @@ My goal is to continuously grow as a software developer, deepen my knowledge of 
 </div>
 
 ## Stats
-
-![glopesz's Stats](https://github-readme-stats.vercel.app/api?username=glopesz&theme=dark&show_icons=true&hide_border=false&count_private=true) 
 
 ![glopesz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=glopesz&theme=dark&hide_border=false)
 
